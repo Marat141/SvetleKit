@@ -23,5 +23,9 @@
 		"svelte": "^5.0.0-next.1",
 		"vite": "^5.0.3"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"css": "^3.0.0",
+		"scss": "^0.2.4"
+	}
 }
